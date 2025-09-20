@@ -1,18 +1,3 @@
-"""Maps: Utilities"""
-"""
-C88C Summer 2025:
-
-Please credit any folks in C88C that you collaborated with,
-and any online sources you searched for.
-Remember, it's OK to ask for help, and to search for topics, but
-you may not search for specific solutions or copy any code directly.
-
-List Collaborators:
-Tim Roth
-Thuy Duong Ngo
-Credit Any Online Sources (google searches, etc):
-"""
-
 from math import sqrt
 
 # Rename the built-in zip (http://docs.python.org/3/library/functions.html#zip)
